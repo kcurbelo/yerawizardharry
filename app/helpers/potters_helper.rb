@@ -1,0 +1,2 @@
+module PottersHelper
+end

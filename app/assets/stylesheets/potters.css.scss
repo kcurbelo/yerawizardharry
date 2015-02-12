@@ -1,0 +1,70 @@
+// Place all the styles related to the potters controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.first_row {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+.second_row {
+  background-color: #999999;
+//  height: 500px;
+}
+
+.third_row {
+  background-color: #730E15;
+  height: 500px;
+}
+
+
+.harry {
+  width: 100px;
+  height: 100px;
+  background: url("../assets/HPCharacterSprite.jpg") -400px 0;
+  margin: 0 auto;
+}
+.herm {
+  width: 100px;
+  height: 100px;
+  background: url("../assets/HPCharacterSprite.jpg") -200px 100px;
+  margin: 0 auto;
+}
+
+.ron {
+  width: 100px;
+  height: 100px;
+  background: url("../assets/HPCharacterSprite.jpg") 100px 200px;
+  margin: 0 auto;
+}
+
+.gry {
+  background: url('../assets/HogwartsHouses.png') 14px -14px;
+  width: 212px;
+  height: 227px;
+  margin: 0 auto;
+}
+.rav {
+  background: url('../assets/HogwartsHouses.png') 199px -13px;
+  width: 212px;
+  height: 227px;
+  margin: 0 auto;
+}
+.huf {
+  background: url('../assets/HogwartsHouses.png') 14px -249px;
+  width: 212px;
+  height: 227px;
+  margin: 0 auto;
+}
+.sly {
+  background: url('../assets/HogwartsHouses.png') 198px -252px;
+  width: 212px;
+  height: 227px;
+  margin: 0 auto;
+}
+
+
+
+
+
